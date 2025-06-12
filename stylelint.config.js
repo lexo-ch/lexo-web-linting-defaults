@@ -40,7 +40,7 @@ export default {
 		'length-zero-no-unit': true,
 		'at-rule-empty-line-before': 'always',
 		'declaration-empty-line-before': 'never',
-		'rule-empty-line-before': ['always-multi-line', {except: ['inside-block']}],
+		'rule-empty-line-before': ['always-multi-line'],
 		'declaration-block-single-line-max-declarations': 0,
 		'alpha-value-notation': 'percentage',
 		'color-function-notation': 'modern',
